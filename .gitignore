@@ -63,3 +63,7 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
+
+#Arquivos compactados
+1110-aula-inicial.zip
+jenkins-todo-list.zip
